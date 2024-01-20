@@ -1077,7 +1077,7 @@ section {
 #footer {
   padding: 15px;
   color: #f4f6fd;
-  font-size: 14px;
+  font-size: 9px;
   position: fixed;
   left: 0;
   bottom: 0;
@@ -1088,13 +1088,12 @@ section {
 
 #footer .copyright {
   text-align: center;
-  padding-top: 25px;
 }
 
 #footer .credits {
   padding-top: 5px;
   text-align: center;
-  font-size: 13px;
+  font-size: 8px;
   color: #eaebf0;
 }
 
