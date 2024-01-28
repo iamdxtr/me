@@ -1,6 +1,8 @@
-Thanks for downloading this template!
+Thanks for visiting my Portfolio!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to Dexign!
+
+Explore to know more about my passion journey.
+
+Author: Jan Dexter Lanon
+Date: January 20, 2024
