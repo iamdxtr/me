@@ -1,8 +1,5 @@
-Thanks for visiting my Portfolio!
+Thanks for visiting my portfolio!
 
 Welcome to Dexign!
 
-Explore to know more about my passion journey.
-
-Author: Jan Dexter Lanon
-Date: January 20, 2024
+A website that combines UI/UX and Security.

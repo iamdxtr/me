@@ -1,9 +1,4 @@
 <?php
-  /**
-  * Requires the "PHP Email Form" library
-  * The "PHP Email Form" library is available only in the pro version of the template
-  * The library should be uploaded to: vendor/php-email-form/php-email-form.php
-  */
 
   $receiving_email_address = 'jandexter0615@gmail.com';
 
@@ -21,7 +16,7 @@
   $contact->from_email = $_POST['email'];
   $contact->subject = $_POST['subject'];
 
-  // Uncomment below code if you want to use SMTP to send emails. You need to enter your correct SMTP credentials
+  // Uncomment below code if I will use SMTP to send emails. Enter my correct SMTP credentials
   /*
   $contact->smtp = array(
     'host' => 'example.com',
