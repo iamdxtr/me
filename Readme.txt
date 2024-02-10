@@ -1,5 +1,6 @@
-Thanks for visiting my portfolio!
+Thanks for downloading this template!
 
-Welcome to Dexign!
-
-A website that combines UI/UX and Security.
+Template Name: Squadfree
+Template URL: https://bootstrapmade.com/squadfree-free-bootstrap-template-creative/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
